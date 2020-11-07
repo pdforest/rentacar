@@ -22,4 +22,4 @@ Users of the application should be able to choose between locations, dates, time
 
 1. After hitting the search button, the app should display the top car rental deals based on the search criteria, add a panel for additional filter options, and also the search panel for changing the search conditions.
 
-![Rentacar Object Diagram](object-diagram.png)
+![Rentacar Object Diagram](img/object-diagram.png)
