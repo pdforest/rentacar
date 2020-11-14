@@ -1,12 +1,14 @@
 # rentacar
 
-This project is about a rent-a-car application that will be created using the object-oriented programming `(OOP)` paradigm due to the modeling of a real-life situation in which customers want to rent a car according to their needs.
+[GitHub](https://github.com/pdforest/rentacar)
 
-The car as an object to be modeled fits perfectly into the paradigm, has the possibility of adding properties and methods and being reusable.
+This project is about a rent-a-car application that will be created using the object-oriented programming `(OOP)` paradigm due to the modeling of a real-life situation in which customers want to rent a car for a period of time and according to their needs.
 
-Also for several types of car objects, the same functionality could be implemented, i.e. polymorphism
+Making a reservation involves modeling objects that fit perfectly into the paradigm with the ability to add properties, methods, and be reusable.
 
-Users of the application should be able to choose between locations, dates, times and different types of features to rent a car  that match it, make reservations and pay in advance. 
+Also for several types of car objects, the same functionality could be implemented, i.e. polymorphism.
+
+Users of the application should be able to choose between locations, dates, times and different types of features to rent a car that match it, make reservations and pay in advance. 
 
 `Here are the user-stories:`
 
@@ -22,4 +24,13 @@ Users of the application should be able to choose between locations, dates, time
 
 1. After hitting the search button, the app should display the top car rental deals based on the search criteria, add a panel for additional filter options, and also the search panel for changing the search conditions.
 
-![Rentacar Object Diagram](img/object-diagram.png)
+
+
+`Objects map:`
+
+![Rentacar Object Diagram](img/Rentacar_Objects.png)
+
+`Class diagram:`
+
+![Rentacar Object Diagram](img/Rentacar_Class.png)
+
